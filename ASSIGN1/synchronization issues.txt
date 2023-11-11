@@ -4,7 +4,7 @@ Synchronization Issue:
 2- Concurrent writes to a shared file may lead to conflicts and data corruption.
 Resolution:
 
-1- Implement Mutex or Semaphores for synchronization.
+1- Implement lock variables or Semaphores for synchronization.
 2- Ensure that only one child process can access the shared resource at a time.
 
 
