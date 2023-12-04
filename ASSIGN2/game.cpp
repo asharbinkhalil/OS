@@ -350,7 +350,7 @@ int main()
     
        
         window.display();
-        //UpdatePriority(players);
+        UpdatePriority(players);
     }
     
     
